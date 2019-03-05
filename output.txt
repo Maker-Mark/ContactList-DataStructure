@@ -1,0 +1,166 @@
+Mary     Poppins    Phone Number:(414)-444-2223 
+123 Elm St
+Brooklyn, New York   
+
+Cara     Barris     Phone Number:(516)-403-3245 
+456 Prospect Pl
+Brooklyn, New York   
+
+Mike     Gollins    Phone Number:(123)-456-7891 
+345 Sain Johns Pl
+Brooklyn, New York   
+
+Bob      Dollins    Phone Number:(123)-456-7891 
+345 Sain Johns Pl
+Brooklyn, New York   
+
+Cherry   Dollins    Phone Number:(123)-456-7891 
+345 Sain Johns Pl
+Brooklyn, New York   
+
+Zang     Lang       Phone Number:(123)-456-7891 
+53 Edmont St
+Nashville , Tennessee  
+
+Aang     Lang       Phone Number:(123)-456-7891 
+345 Sain Johns Pl
+Brooklyn , New York   
+
+Value from Lexicographic comparison of Cara Barris with Cara Barris:0
+Is the  contact at index1,Cara Barris equal to the index1, contact: Mary Poppins?
+Yes! You have a duplicate contact!
+------------------------------
+Value from Lexicographic comparison of Mike Gollins with Cara Barris:5
+Is the  contact at index2,Mike Gollins equal to the index1, contact: Cara Barris?
+Nope, they are not equal
+------------------------------
+Value from Lexicographic comparison of Bob Dollins with Cara Barris:2
+Is the  contact at index3,Bob Dollins equal to the index1, contact: Mike Gollins?
+Nope, they are not equal
+------------------------------
+Value from Lexicographic comparison of Cherry Dollins with Cara Barris:2
+Is the  contact at index4,Cherry Dollins equal to the index1, contact: Bob Dollins?
+Nope, they are not equal
+------------------------------
+Value from Lexicographic comparison of Zang Lang with Cara Barris:10
+Is the  contact at index5,Zang Lang equal to the index1, contact: Cherry Dollins?
+Nope, they are not equal
+------------------------------
+Value from Lexicographic comparison of Aang Lang with Cara Barris:10
+Is the  contact at index6,Aang Lang equal to the index1, contact: Zang Lang?
+Nope, they are not equal
+------------------------------
+Value from Lexicographic comparison of Holly Flax with Cara Barris:4
+Is the  contact at index7,Holly Flax equal to the index1, contact: Aang Lang?
+Nope, they are not equal
+------------------------------
+Value from Lexicographic comparison of Jonny Test with Cara Barris:18
+Is the  contact at index8,Jonny Test equal to the index1, contact: Holly Flax?
+Nope, they are not equal
+------------------------------
+Value from Lexicographic comparison of Able Frank with Cara Barris:4
+Is the  contact at index9,Able Frank equal to the index1, contact: Jonny Test?
+Nope, they are not equal
+------------------------------
+Contact number 1 is currently:
+Cara     Barris     Phone Number:(516)-403-3245 
+456 Prospect Pl
+Brooklyn, New York   
+
+Contact number 1 is now:
+Cara     Dollins    Phone Number:(414)-444-2223 
+345 Sain Johns Pl
+Brooklyn, New York   
+
+Short Contact at list number 1 is now:
+Cara     Dollins    Phone Number:(414)-444-2223 
+345 Sain Johns Pl
+Brooklyn, New York   
+
+Contact number 2 is currently:
+Mike     Gollins    Phone Number:(123)-456-7891 
+345 Sain Johns Pl
+Brooklyn, New York   
+
+Contact number 2 is now:
+Zang     Dollins    Phone Number:(414)-444-2223 
+345 Sain Johns Pl
+Brooklyn, Tennessee  
+
+Short Contact at list number 2 is now:
+Zang     Dollins    Phone Number:(414)-444-2223 
+345 Sain Johns Pl
+Brooklyn, Tennessee  
+
+Contact number 3 is currently:
+Bob      Dollins    Phone Number:(123)-456-7891 
+345 Sain Johns Pl
+Brooklyn, New York   
+
+Contact number 3 is now:
+Zang     Dollins    Phone Number:(414)-444-2223 
+345 Sain Johns Pl
+Brooklyn, Tennessee  
+
+Short Contact at list number 3 is now:
+Zang     Dollins    Phone Number:(414)-444-2223 
+345 Sain Johns Pl
+Brooklyn, Tennessee  
+
+Contact number 4 is currently:
+Cherry   Dollins    Phone Number:(123)-456-7891 
+345 Sain Johns Pl
+Brooklyn, New York   
+
+Contact number 4 is now:
+Cherry   Lang       Phone Number:(414)-444-2223 
+345 Sain Johns Pl
+Brooklyn , New York   
+
+Short Contact at list number 4 is now:
+Cherry   Lang       Phone Number:(414)-444-2223 
+345 Sain Johns Pl
+Brooklyn , New York   
+
+Contact number 5 is currently:
+Zang     Lang       Phone Number:(123)-456-7891 
+53 Edmont St
+Nashville , Tennessee  
+
+Contact number 5 is now:
+Cherry   Lang       Phone Number:(414)-444-2223 
+53 Edmont St
+Nashville , New York   
+
+Short Contact at list number 5 is now:
+Cherry   Lang       Phone Number:(414)-444-2223 
+53 Edmont St
+Nashville , New York   
+
+Contact number 6 is currently:
+Aang     Lang       Phone Number:(123)-456-7891 
+345 Sain Johns Pl
+Brooklyn , New York   
+
+Contact number 6 is now:
+Cherry   Dollins    Phone Number:(414)-444-2223 
+345 Sain Johns Pl
+Brooklyn, New York   
+
+Short Contact at list number 6 is now:
+Cherry   Dollins    Phone Number:(414)-444-2223 
+345 Sain Johns Pl
+Brooklyn, New York   
+
+Contact number 7 is currently:
+Holly    Flax       Phone Number:(626)-303-0201
+Short Contact at list number 7 is now:
+Hollys   Flaxson    Phone Number:(626)-303-0200
+Contact number 8 is currently:
+Jonny    Test       Phone Number:(132)-403-0322
+Short Contact at list number 8 is now:
+Jonnys   Testson    Phone Number:(032)-403-0322
+Contact number 9 is currently:
+Able     Frank      Phone Number:(134)-323-2255
+Short Contact at list number 9 is now:
+Ables    Frankson   Phone Number:(034)-323-2255
